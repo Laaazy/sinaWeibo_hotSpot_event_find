@@ -1,0 +1,2 @@
+# sinaWeibo_hotSpot_event_find
+基于统计方法的新浪微博热点事件发现
